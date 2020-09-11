@@ -1,0 +1,29 @@
+.searchResult{
+    overflow: hidden;
+    cursor: pointer;
+    /* border-bottom: 1px solid black; */
+}
+.searchResult:hover{
+    opacity: 0.8;
+}
+.searchResult img{
+    height: auto;
+    width: 100%;
+    object-fit: contain;
+    border-radius: 7px;
+    margin-bottom: 3px;
+}
+.searchResult-stars{
+    display: flex;
+    align-items: flex-end;
+}
+.toppy{
+    display: flex;
+    justify-content: space-between;
+}
+.searchResult-star{
+    color: rgb(255, 56, 92) !important;
+}
+.searchResult-price h2{
+    font-size: 1.4rem;
+}
