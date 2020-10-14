@@ -5,7 +5,7 @@ Try it now.
 
 https://airbnb-clone-859c2.web.app/
 
-![screenshot](https://github.com/pankajsahu221/Airbnb-clone/blob/master/src/airbnb-shot.JPG)![screenshot](https://github.com/pankajsahu221/Airbnb-clone/blob/master/src/airbnb-shot.JPG)
+![screenshot](https://github.com/pankajsahu221/Airbnb-clone/blob/master/src/airbnb-shot.JPG)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
